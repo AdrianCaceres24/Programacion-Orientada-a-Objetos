@@ -1,0 +1,11 @@
+
+int[] arreglo = { 28, 11, 96, 21, 6, 97 };
+            
+            for (int indice = 0; indice < arreglo.Length; indice++)
+            {
+                int elemento = arreglo[indice];
+                Console.Write(elemento);
+}
+            // Imprimir también una coma
+            Console.Write(", ");
+            }
