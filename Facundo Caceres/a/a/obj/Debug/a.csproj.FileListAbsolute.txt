@@ -1,0 +1,8 @@
+C:\Users\alumno\Documents\Facundo Caceres\a\a\bin\Debug\a.exe.config
+C:\Users\alumno\Documents\Facundo Caceres\a\a\bin\Debug\a.exe
+C:\Users\alumno\Documents\Facundo Caceres\a\a\bin\Debug\a.pdb
+C:\Users\alumno\Documents\Facundo Caceres\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\Facundo Caceres\a\a\obj\Debug\a.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Documents\Facundo Caceres\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\Facundo Caceres\a\a\obj\Debug\a.exe
+C:\Users\alumno\Documents\Facundo Caceres\a\a\obj\Debug\a.pdb
