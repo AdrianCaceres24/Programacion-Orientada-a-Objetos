@@ -1,0 +1,45 @@
+LABORATORIO DE PROGRAMACION ORIENTADA A OBJETOS
+GUIA DE PREGUNTAS POSIBLES Y TEMAS INVOLUCRADOS PARA EL EXAMEN-01
+
+¿Qué es un objeto?
+
+
+¿Qué es un constructor?
+Al crear una clase se le llama constructor, esta clase puede tener 
+varios constructores que pueden tomar diferentes argumentos.
+El constructor permite al programador dar valores predeterminados, limitar
+la creaion de instancias y escribir codigo que se pueda leer
+
+¿Cuáles son los pilares o fundamentos en que se basa la Programación Orientada a Objetos?
+Son 4 fundamentos 
+Abstraccion>
+El proceso de abstrancion permite seleccionar las caracteristicas relevantes dentro
+de un conjunto e identificar comportamientos comunes para definir nuevos tipos de entidades en el mundo real
+Mediante la abstraccion podemos llegar a armar un conjunto de clases que permitan modelar la realidad.
+Encapsulamiento>
+Significa reunir a todos los elementos que puede considerarse pertenecientes a una misma entidad, 
+al mismo nivel de abstraccion. Este concepto con el principio de ocultacion, principalmente 
+porque se suelen emplear conjuntamente.
+Polimorfismo>
+Comportamientos diferentes, asociados a objetos distintos, pueden compartir el mismo nombre,
+al llamarlos por ese nombre se utilizara el comportamiento correspondiente al objeto que se este usando.
+Herencia>
+Organiza y facilita el polimorfismo y el encapsulamiento permitiendo a los objetos ser definidos y creados
+como tipos especializados de objetos preexistentes. estos pueden compartir(y extender)su comportamiento sin
+tener que volver a implementarlo
+¿Qué es instanciar una clase?
+¿Qué es una clase?
+¿Qué significa void?
+¿Qué valor puede retornar un constructor?
+¿Qué hace el constructor?
+¿Qué es un método?
+¿Qué es un atributo?
+
+Multiples choice
+Tenemos una clase definida de la forma, class persona{}, ¿cual de las siguientes opciones califica
+como constructor?
+persona[]{}
+void persona(){}
+void persona[]{}
+persona(){}
+
